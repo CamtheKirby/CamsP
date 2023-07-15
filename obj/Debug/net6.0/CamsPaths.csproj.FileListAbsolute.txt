@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\bin\Debug\net6.0\CamsPaths.deps.json
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\bin\Debug\net6.0\CamsPaths.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.AssemblyInfo.cs
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.csproj.CopyComplete
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\CamsPaths.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\refint\CamsPaths.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsPaths\obj\Debug\net6.0\ref\CamsPaths.dll
